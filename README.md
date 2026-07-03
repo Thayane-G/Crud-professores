@@ -4,6 +4,15 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) desenv
 
 ---
 
+## !Preview do projeto
+
+
+<img width="1919" height="1025" alt="Captura de tela 2026-05-02 171538" src="https://github.com/user-attachments/assets/2aff5208-853c-4a7f-a26c-e35c03c83e8a" />
+<img width="1919" height="1014" alt="Captura de tela 2026-06-03 145145" src="https://github.com/user-attachments/assets/00a54508-c227-4a8f-9eda-f598b3f4cff7" />
+<img width="1919" height="1020" alt="Captura de tela 2026-06-03 145132" src="https://github.com/user-attachments/assets/c8a59aa9-19c7-478c-922e-35cee807131b" />
+
+---
+
 ## Funcionalidades
 
 - Cadastro de professores
@@ -57,15 +66,6 @@ Durante o desenvolvimento deste projeto, pratiquei:
 - `conexao.php` → conexão com banco de dados
 - `mensagem.php` → exibição de mensagens
 - `navbar.php` → componente de navegação
-
----
-
-## !Preview do projeto
-
-
-<img width="1919" height="1025" alt="Captura de tela 2026-05-02 171538" src="https://github.com/user-attachments/assets/2aff5208-853c-4a7f-a26c-e35c03c83e8a" />
-<img width="1919" height="1014" alt="Captura de tela 2026-06-03 145145" src="https://github.com/user-attachments/assets/00a54508-c227-4a8f-9eda-f598b3f4cff7" />
-<img width="1919" height="1020" alt="Captura de tela 2026-06-03 145132" src="https://github.com/user-attachments/assets/c8a59aa9-19c7-478c-922e-35cee807131b" />
 
 ---
 
